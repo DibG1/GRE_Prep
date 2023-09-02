@@ -12,6 +12,7 @@ Key takeaway: There are multiple strategies for solving GRE problems, ample prac
 Magoosh Premium subscription is a very useful paid resource, I highly recommend taking it. 
 
 *For Verbal:* 
+
 First do Manhattan Verbal Strategies followed by the 5 lb for practice.
 
 Follow it with the Princeton Review Verbal Workbook.
