@@ -40,4 +40,9 @@ Manhattan: 1 free mock test
 
 Princeton: Use the ISBN number from amazon to access their paid mock tests for free by registering on their website
 
+My Mock Test scores:
+
+![image](https://github.com/DibG1/GRE_Prep/assets/78297958/a85c26ca-2a5b-4441-89aa-9dafab5ddc75)
+
+
 
